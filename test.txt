@@ -1,1 +1,3 @@
+Hello main
 Hello setting
+Hello mypage
